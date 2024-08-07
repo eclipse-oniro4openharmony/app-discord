@@ -1,4 +1,2 @@
-# WebApp
-
-WebApp template based on API11 
-
+# Discord
+This is a web app of Discord

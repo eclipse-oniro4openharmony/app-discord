@@ -38,7 +38,8 @@ struct Index {
       // Web({ src: $rawfile("index.html"), controller: this.controller })
 
       /* Load online web pages */
-      Web({ src: 'https://xxx/xxx/com', controller: this.controller })
+      //replace the url with the discord web
+      Web({ src: 'https://discord.com/channels/@me', controller: this.controller })
         .zoomAccess(false)
         .mediaPlayGestureAccess(true)
         .horizontalScrollBarAccess(false)
